@@ -12,8 +12,6 @@ This Streamlit app uses AI to schedule electric bus fleets. It clusters routes w
 
 ## Screenshots
 
-## Screenshots
-
 Homepage  
 ![Homepage](Homepage.png)
 
